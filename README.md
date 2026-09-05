@@ -1,6 +1,6 @@
-# HEIM — furniture store
+# Deli Furniture Store
 
-IKEA-inspired online furniture shop for Malaysia (MYR). React + Vite front end with catalog, rooms, offers, shopping list, bag and demo checkout.
+Test
 
 ```
 npm install
